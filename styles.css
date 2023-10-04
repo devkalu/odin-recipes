@@ -1,0 +1,31 @@
+* {
+  background-color: rgba(255, 213, 0, 0.659);
+  color: #444df8;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-head,
+.sub-heading,
+.mini-heading {
+  color: #ff5b5b;
+  font-family: "Brush Script MT", serif;
+  text-align: center;
+  font-size: 60px;
+}
+
+.link-text {
+  font-size: 25px;
+  color: #ff5b5b;
+  text-align: center;
+}
+
+.sub-heading {
+  font-size: 40px;
+}
+
+.mini-heading {
+  color: #ff5b5b;
+  font-size: 30px;
+  text-align: left;
+}
