@@ -47,7 +47,8 @@ li {
   text-decoration: none;
 }
 ul,
-ol {
+ol,
+.description {
   background-color: #fff;
   padding: 15px;
   margin: 20px 30px;
@@ -70,4 +71,9 @@ ol {
 
 .center-btn {
   text-align: center;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
 }
